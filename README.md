@@ -1,5 +1,5 @@
 # react.redux.jwt.auth-for.spring.boot
-
+Spring Boot + JWT のバックエンドを使って認証を行う React.js プロジェクトです
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
