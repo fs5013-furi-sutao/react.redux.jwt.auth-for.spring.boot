@@ -1,5 +1,10 @@
 # react.redux.jwt.auth-for.spring.boot
-Spring Boot + JWT のバックエンドを使って認証を行う React.js プロジェクトです
+Spring Boot + JWT のバックエンドを使って認証を行う React.js プロジェクトです。
+
+`yarn start` を実行する前に、以下のバックエンドを起動しておく（`gradle bootRun` or `./gradlew bootRun`）。
+
+Spring Boot + JWT を使った認証 API：  
+https://github.com/fs5013-furi-sutao/spring.boot.jwt
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
